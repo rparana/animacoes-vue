@@ -1,15 +1,14 @@
-# Repositorio VUE SuperQuiz
+# Repositório VUE SuperQuiz
 
 ![Preview](screenshot.gif)
 
-
-## Repositorio com codigo para o desenvolvimento de atividades com VUE e animacoes css
+## Repositorio com código para o desenvolvimento de atividades com VUE e animações css
 
 * animacoes-exercicios
-  * codigos de exemplo com animacoes em vuejs
+  * códigos de exemplo com animações em vuejs
 * super-quiz
-  * codigo inicial para desenvolvimento completo
+  * código inicial para desenvolvimento completo
 * super-quiz-desanimado
-  * codigo com a parte vue concluida sem a animacao
+  * código com a parte VUE concluída sem a animação
 * super-quiz-final
-  * codigo do quiz completo
+  * código do quiz completo
